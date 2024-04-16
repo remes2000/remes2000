@@ -11,3 +11,5 @@ One of my coolest university assignments. It’s written in C. Just to show you 
 #### [👉 Graf](https://github.com/remes2000/graf)
 Very old plain JS project. Just to show you that I can handle algorithmic problems as well.
  ([repo](https://github.com/remes2000/graf) | [demo](https://graf.nieruchalski.pl/))
+### Open-source contributions
+#### [👉 AnalogJS](https://github.com/analogjs/analog?tab=readme-ov-file#contributors-)
