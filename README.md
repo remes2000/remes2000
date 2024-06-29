@@ -5,8 +5,8 @@ Enjoy!
 Interactve 3D spinning donut shape using ASCII characters. Port of famous "donut.c" run with Webassembly. ([repo](https://github.com/remes2000/donut.wasm) | [demo](https://donut.nieruchalski.dev))
 #### [👉 nieruchalski.dev](https://nieruchalski.dev)
 My personal blog. It is based on an "AnalogJS" meta-framework. ([repo](https://github.com/remes2000/nieruchalski.dev) | [demo](https://nieruchalski.dev))
-#### [👉 Signal Spreadsheet WIP](https://github.com/remes2000/signal-spreadsheet)
-Spreadsheet application utilizing Angular Signals. I've created it to get used to signals. (Work in progress) ([repo](https://github.com/remes2000/signal-spreadsheet) | [demo](https://spreadsheet.nieruchalski.dev))
+#### [👉 Signal Spreadsheet](https://github.com/remes2000/signal-spreadsheet)
+Spreadsheet application utilizing Angular Signals. I've created it to get used to signals. ([repo](https://github.com/remes2000/signal-spreadsheet) | [demo](https://spreadsheet.nieruchalski.dev))
 #### [👉 Microshell](https://github.com/remes2000/microshell)
 One of my coolest university assignments. It’s written in C. Just to show you I can learn any technology you need.
 ([repo](https://github.com/remes2000/microshell))
